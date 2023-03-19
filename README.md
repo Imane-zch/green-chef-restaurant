@@ -14,8 +14,7 @@ This is a restaurant website created with Javascript
 
 ## Usage
 
-1. To start the application, run `npm start`.
-2. Open [http://localhost:3000](http://localhost:3000/) to view it in the browser.
+1. Open [http://localhost:3000](http://localhost:3000/) to view it in the browser.
 
 ## Visuals
 
